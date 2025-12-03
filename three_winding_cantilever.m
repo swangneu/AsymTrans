@@ -1,0 +1,12 @@
+clc;
+clear;
+f = 1e5;
+omega = 2*pi*f;
+Lm = 53.7227/omega;
+L1L2 = 555.342/omega;
+L1L3 = 198.066/omega;
+L2dL1L2 = 116.335/272.291;
+L3dL1L3 = 74.1279/314.807;
+L2 = L2dL1L2 * L1L2;
+L3 = L3dL1L3 * L1L3;
+L1 = L1L3 - L3;
