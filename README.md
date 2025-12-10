@@ -1,7 +1,6 @@
 # AsymTrans
-Project Title
 
-A short, clear one-line description of what your project does.
+Extending DAB to multi-port DAB: effective design of integrated multi-winding transformers for decoupled power flow.
 
 ## Introduction
 
@@ -13,7 +12,7 @@ This repository contains a lightweight implementation of XYZ. The goal of this p
 
 | File / Folder     | Description                                |
 | ----------------- | ------------------------------------------ |
-| `file1.py`        | Brief explanation of what this file does.  |
-| `file2.m`         | MATLAB script for handling XYZ.            |
-| `utils/helper.py` | Utility functions used across the project. |
+| `asymtrans.FEM`        | Main FEM file.  |
+| `ecm.m`         | MATLAB script to compute the parameters in the extended cantilever model.          |
+| `fem_results/` | FEM results folder for three measurements. |
 | `README.md`       | Documentation for this repository.         |
