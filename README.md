@@ -17,3 +17,7 @@ This repository contains a lightweight implementation of XYZ. The goal of this p
 | `fem_results/`    | FEM results folder for three measurements. |
 | `tab.slx`         | Simulink validation of Triple-Active-Bridge Converter.                             |
 | `README.md`       | Documentation for this repository.         |
+
+## Related Link
+
+[FEMM](https://www.femm.info/wiki/HomePage)
