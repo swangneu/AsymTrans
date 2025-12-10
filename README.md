@@ -1,6 +1,6 @@
 # AsymTrans
 
-Extending DAB to multi-port DAB: effective design of integrated multi-winding transformers for decoupled power flow.
+Extending DAB to multi-port DAB: effective design of integrated multi-winding transformers for decoupled power flow, and case validation of TAB converter.
 
 ## Introduction
 
@@ -12,7 +12,8 @@ This repository contains a lightweight implementation of XYZ. The goal of this p
 
 | File / Folder     | Description                                |
 | ----------------- | ------------------------------------------ |
-| `asymtrans.FEM`        | Main FEM file.  |
-| `ecm.m`         | MATLAB script to compute the parameters in the extended cantilever model.          |
-| `fem_results/` | FEM results folder for three measurements. |
+| `asymtrans.FEM`   | Main FEM file.                             |
+| `ecm.m`           | MATLAB script to compute the parameters in the extended cantilever model.          |
+| `fem_results/`    | FEM results folder for three measurements. |
+| `tab.slx`         | Simulink validation of Triple-Active-Bridge Converter.                             |
 | `README.md`       | Documentation for this repository.         |
