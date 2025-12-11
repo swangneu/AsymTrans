@@ -1,12 +1,7 @@
 # AsymTrans
 
 Extending DAB to multi-port DAB: effective design of integrated multi-winding transformers for decoupled power flow, and case validation of TAB converter.
-
-## Introduction
-
-Provide a concise introduction to your project here — what it is, why it exists, and what problem it solves.
-Example:
-This repository contains a lightweight implementation of XYZ. The goal of this project is to provide simple, clean, and reproducible code for demonstration and testing.
+![AysmTrans](images/asymtrans.png)
 
 ## Repository Structure
 
@@ -21,3 +16,4 @@ This repository contains a lightweight implementation of XYZ. The goal of this p
 ## Related Link
 
 [FEMM](https://www.femm.info/wiki/HomePage)
+[ECM](https://ieeexplore.ieee.org/document/9003574)
