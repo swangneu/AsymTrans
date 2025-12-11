@@ -1,7 +1,9 @@
 # AsymTrans
 
-6.S892 Advanced Topics in Power Electronics Course Project
+**6.S892 Advanced Topics in Power Electronics Course Project**
+
 Integrated multi-winding transformers for decoupled MAB power flow: a case study of three-winding transformers in TAB
+
 ![AysmTrans](images/asymtrans.png)
 
 ## Repository Structure
