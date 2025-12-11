@@ -1,6 +1,7 @@
 # AsymTrans
 
-Extending DAB to multi-port DAB: effective design of integrated multi-winding transformers for decoupled power flow, and case validation of TAB converter.
+6.S892 Advanced Topics in Power Electronics Course Project
+Integrated multi-winding transformers for decoupled MAB power flow: a case study of three-winding transformers in TAB
 ![AysmTrans](images/asymtrans.png)
 
 ## Repository Structure
