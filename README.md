@@ -12,7 +12,7 @@ This repository contains a lightweight implementation of XYZ. The goal of this p
 
 | File / Folder     | Description                                |
 | ----------------- | ------------------------------------------ |
-| `asymtrans.FEM`   | Main FEM file.                             |
+| `asymtrans.FEM`   | Main FEM file, can be directly opened in FEMM software.                            |
 | `ecm.m`           | MATLAB script to compute the parameters in the extended cantilever model.          |
 | `fem_results/`    | FEM results folder for three measurements. |
 | `tab.slx`         | Simulink validation of Triple-Active-Bridge Converter.                             |
